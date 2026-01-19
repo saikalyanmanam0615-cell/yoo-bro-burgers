@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #fffaf3;
+    color: #333;
+    text-align: center;
+}
+
+header {
+    background-color: #ffb703;
+    padding: 20px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+}
+
+.hero {
+    padding: 60px 20px;
+    background-color: #fb8500;
+    color: white;
+}
+
+.btn {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 12px 25px;
+    background-color: #023047;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+#menu {
+    padding: 40px 20px;
+}
+
+#menu ul {
+    list-style: none;
+    padding: 0;
+}
+
+#menu li {
+    font-size: 1.2rem;
+    margin: 10px 0;
+}
+
+footer {
+    background-color: #023047;
+    color: white;
+    padding: 15px;
+}
